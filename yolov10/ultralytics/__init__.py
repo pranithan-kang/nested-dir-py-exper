@@ -1,0 +1,1 @@
+from .data.explorer.some_module import some_variable as YOLOv10
